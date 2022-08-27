@@ -1,3 +1,5 @@
+"use strict";
+
 let num=56;
 
 //while (num<55) {
@@ -10,7 +12,7 @@ do {
     num++;
 }
 
-while (num<55)
+while (num<55);
 
 for (let i = 1; i < 8; i++) {
     console.log("i");
